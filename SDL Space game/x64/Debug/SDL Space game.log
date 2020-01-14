@@ -1,0 +1,36 @@
+﻿  Source.cpp
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(178): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(231): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(239): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(239): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(246): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(246): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(253): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(253): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(274): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(294): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(299): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(303): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(417): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(430): warning C4018: '>': signed/unsigned mismatch
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(340): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(460): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(477): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\firehive\source\repos\sdl space game\sdl space game\source.cpp(540): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+Source.obj : error LNK2019: unresolved external symbol Mix_Quit referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_OpenAudio referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_LoadWAV_RW referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_LoadMUS referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_FreeChunk referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_FreeMusic referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_PlayChannelTimed referenced in function "int __cdecl eventuri(struct SDL_Window *,struct Ship *)" (?eventuri@@YAHPEAUSDL_Window@@PEAUShip@@@Z)
+Source.obj : error LNK2019: unresolved external symbol Mix_PlayMusic referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_VolumeChunk referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_VolumeMusic referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_PlayingMusic referenced in function SDL_main
+SDL2_mixer.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\FIREHIVE\source\repos\SDL Space game\x64\Debug\SDL Space game.exe : fatal error LNK1120: 11 unresolved externals

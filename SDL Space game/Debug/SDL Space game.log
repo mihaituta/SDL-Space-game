@@ -1,0 +1,38 @@
+﻿  Source.cpp
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(134,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(135,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(174,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(175,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(223,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(223,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(223,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(223,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(231,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(231,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(231,38): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(231,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(238,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(238,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(238,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(238,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(244,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(244,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(244,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(244,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(264,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(291,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(292,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(299,13): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(304,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(314,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(320,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(449,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(506,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(371,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(572,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(604,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(626,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FIREHIVE\source\repos\SDL Space game\SDL Space game\Source.cpp(627,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SDL Space game.vcxproj -> C:\Users\FIREHIVE\source\repos\SDL Space game\Debug\SDL Space game.exe
