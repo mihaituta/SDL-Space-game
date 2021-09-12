@@ -5,7 +5,7 @@
 # SpaceGame
 **SpaceGame is a project made for college.**
 
-<a href="https://mihaituta.netlify.app/projects/infinityfood" rel="noreferrer" target="_blank">
+<a href="https://mihaituta.netlify.app/projects/spacegame" rel="noreferrer" target="_blank">
 Go to portfolio
 </a>
 
